@@ -1,7 +1,6 @@
-# Grupo 1 - PRcodeReview
+# Grupo-1
 
 **Professor**: Dr. Igor Steinmacher
-
 **Email**: igorfs@utfpr.edu.br
 
 ## Atividade
