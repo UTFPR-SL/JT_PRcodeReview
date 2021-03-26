@@ -1,8 +1,14 @@
-## Grupo-1
+# Grupo 1 - PRcodeReview
 
-* Jordan Vinicius Guimarães 
-* Tiago José Marciano
+**Professor**: Dr. Igor Steinmacher
+
+**Email**: igorfs@utfpr.edu.br
 
 ## Atividade
 
 Pull request e Code review
+
+## Grupo
+
+* Jordan Vinicius Guimarães 
+* Tiago José Marciano
